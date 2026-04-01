@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1KHlHBunD9HyA5HsVBBZu3sbiAJjIFD4y
 """
 
-import pandas as pd
+import pandas as 
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
