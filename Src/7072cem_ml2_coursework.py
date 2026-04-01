@@ -17,6 +17,7 @@ import seaborn as sns
 
 data = pd.read_csv("dataset/diabetic_data.csv")
 data.info()
+data.info()
 # 50 columns and 101766 instances
 print(data.columns) # print all variables/columns
 
