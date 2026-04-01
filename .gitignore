@@ -1,0 +1,11 @@
+literature review/
+.ipynb_checkpoints/
+reports/
+.ypynb_checkpoints/
+literature review/
+reports/
+*.pdf *.docx
+*.pdf
+reports/
+literature review/
+.ypynb_checkpoints/
